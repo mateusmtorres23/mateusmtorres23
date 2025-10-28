@@ -1,82 +1,84 @@
-### Hi, I'm Mateus 👋
+<div align="center">
+  
+  # Mateus Montalvão
+  
+  <p align="center">
+  I'm a Brazilian Software Engineering student focused on learning and building scalable Backend systems, exploring AI/ML, and delivering practical, real-world solutions.
+  </p>
+</div>
+
+---
+
+### 💻 Tech Stack & Interests
+
+I primarily work with **Python** and **Java**, applying these to robust architectural and data-driven challenges.
 
 <p align="left">
-  A Brazilian Software Engineering student building practical solutions and diving deep into AI, Data, and scalable Backend systems.
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datascience/datascience-original.svg" alt="Data/AI" width="40" height="40"/>
 </p>
+---
+
+### 👨‍🎓 About Me & Education
+
+* **Software Engineering Student** at **Universidade de Pernambuco (UPE)**, Brazil.
+* My professional drive is to solve complex, real-world problems using code, with a current focus on **intelligent systems** and **scalable architecture**.
+* Seeking opportunities to apply and deepen my knowledge in **Backend Development** and **Data Engineering**.
 
 <br>
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
-   <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  </a>
-</p>
+**My language capabilitys:**
+* **Portuguese** 🇧🇷 (Native)
+* **English** 🇺🇸 (Fluent)
+* **Italian** 🇮🇹 (Beginner)
 
 ---
 
-### 👨‍💻 About Me
+### 🌱 Current Projects & Focus
 
-<p align="left">
-  I'm a Software Engineering student at the **Universidade de Pernambuco (UPE)** in Brazil. My passion lies in solving real-world problems with code, from backend logic to intelligent systems.
-  <br><br>
-  Beyond technology, I have a strong interest in **linguistics**:
-  <br>
-  🇧🇷 Native Portuguese speaker<br>
-  🇺🇸 Fluent in English<br>
-  🇮🇹 Beginner in Italian
-</p>
+I'm actively developing my skills through hands-on work in key areas:
 
----
+#### **[Project] FarmaGestor**
+* **Focus:** Backend & Software Architecture
+* **Description:** Developing a comprehensive pharmacy management system tailored for the city hall of Lagoa do Ouro. This project involves designing a robust and reliable system to handle operations like inventory, prescription tracking, and user management.
+* **Key Skills:** Java, RESTful API Design, Relational Databases (e.g., PostgreSQL), Spring Boot.
 
-### 🌱 What I'm Currently Working On
+#### **[Project] Webbeat**
+* **Focus:** Web Monitoring & Security
+* **Description:** Building a powerful web application monitoring tool from scratch. The primary challenge is implementing secure and authenticated communication for tracking various web services.
+* **Key Skills:** Spring-Boot, Implementing Security Protocols (Spring Security), Authentication (JWT), Containerization (Docker).
 
-I'm actively developing my skills through hands-on projects and focused study:
-
-* **Project - FarmaGestor**: Developing a pharmacy management system for the city hall of Lagoa do Ouro.
-* **Project - Webbeat**: Building a web app monitoring tool with Spring-Boot, Spring Security, and JWT.
-* **Study**: Focusing on Data Science, Machine Learning, and building AI agents using Generative AI.
+#### **[Study] AI Agents and Data Systems**
+* **Focus:** Data Science & Artificial Intelligence
+* **Description:** Dedicated study to master the fundamentals of Data Science and Machine Learning. Currently building **AI agents** using modern **Generative AI** models (LLMs) and exploring the architecture needed to support scalable data pipelines.
+* **Key Skills:** Python, Machine Learning Concepts, Generative AI/LLMs.
 
 ---
 
-### 🚀 My Goals
+### 💡 Career Vision
 
-My goal is to cultivate a T-shaped skillset, combining deep technical knowledge with a broad understanding of the business and product lifecycle. I'm actively exploring:
+My goal is to cultivate a **T-shaped skillset**. This refers to a deep technical knowledge in one or two specific areas (the vertical bar of the 'T', e.g., Backend Architecture and AI) combined with a broad understanding across many related domains (the horizontal bar of the 'T', e.g., Business Analysis, Product Lifecycle, System Architecture).
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 🏛️ Software Architecture
-* ⚙️ Backend Development
-* 📊 Data Engineering
-* 📈 Business Analysis
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateusmtorres23&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
-</p>
+**Actively Exploring:**
+* 🤖 **Artificial Intelligence** & Machine Learning
+* ⚙️ **Backend Development** & Distributed Systems
+* 🏛️ **Software Architecture** (e.g., Microservices, Domain-Driven Design)
+* 📊 **Data Engineering** & Pipeline Optimization
+* 📈 **Business Analysis**
 
 ---
 
 ### 📫 Let's Connect!
 
+I'm always open to discussing new projects, technical challenges, or opportunities. Feel free to reach out!
+
 <p align="left">
   <a href="https://www.linkedin.com/in/mateus-montalvao" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:YOUR_EMAIL_HERE@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </p>
