@@ -11,7 +11,7 @@
 
 ### 💻 Tech Stack & Interests
 
-I primarily work with **Python** and **Java**, applying these to robust architectural and data-driven application.
+I primarily work with **Python** and **Java**, applying these to distributed systems and data-driven applications.
 
 ### 👨‍🎓 About Me & Education
 
