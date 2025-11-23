@@ -16,7 +16,7 @@ I primarily work with **Python** and **Java**, applying these to distributed sys
 ### 👨‍🎓 About Me & Education
 
 * **Software Engineering Student** at **Universidade de Pernambuco (UPE)**, Brazil.
-* My professional drive is to solve complex, real-world problems using code and math, with a current focus on **intelligent** and **distributed** systems.
+* My professional drive is to solve complex, real-world problems using code and math.
 * Seeking opportunities to apply and deepen my knowledge in **Backend Development** and **Data**.
 
 <br>
