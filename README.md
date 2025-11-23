@@ -35,12 +35,12 @@ I'm actively developing my skills through hands-on work in key areas:
 #### **[Project] FarmaGestor**
 * **Focus:** Full stack & Software Architecture
 * **Description:** Developing a comprehensive pharmacy management system tailored for the city hall of Lagoa do Ouro. The core objective is to design a robust and reliable system to organize the storage, track inventory movimentations, and check for medication expiration dates.
-* **Key Skills:** RESTful API, Python, Django, relational database (Postgre), JavaScript, React, HTML, CSS.
+* **Key Skills:** Django, React, Postgres.
 
 #### **[Project] Webbeat**
 * **Focus:** Web apps Monitoring & Security
 * **Description:** Building a powerful web application monitoring tool from scratch. The primary challenge is implementing secure and authenticated communication for tracking various web services.
-* **Key Skills:** Spring-Boot, Implementing Security Protocols (Spring Security), Authentication (JWT), MongoDB with docker compose.
+* **Key Skills:** Spring, Thymeleaf, MongoDB, docker.
 
 #### **[Study] AI and Data**
 * **Focus:** AI agents, Data science, Data analysis, Machine learning, MLOps, 
