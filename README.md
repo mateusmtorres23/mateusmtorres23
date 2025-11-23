@@ -9,9 +9,9 @@
 
 ---
 
-### 💻 Tech Stack & Interests
+### 💻 Interests
 
-I primarily work with **Python** and **Java**, applying these to distributed systems and data-driven applications.
+I primarily like backend and data, I code mainly in Python, Java, JavaScript and R.
 
 ### 👨‍🎓 About Me & Education
 
