@@ -3,7 +3,7 @@
   # Mateus Montalvão
   
   <p align="center">
-  I'm a Brazilian Software Engineering student focused on learning and building scalable Backend systems, exploring AI/ML, and delivering practical, real-world solutions.
+  I'm a Brazilian Software Engineering student focused on learning web development, AI/ML, data engineering and math.
   </p>
 </div>
 
@@ -11,7 +11,7 @@
 
 ### 💻 Interests
 
-I primarily like backend and data, I code mainly in Python, Java, JavaScript and R.
+I am primarily interested in backend and data engineering. I code mainly in Python and Java.
 
 ### 👨‍🎓 About Me & Education
 
@@ -21,44 +21,44 @@ I primarily like backend and data, I code mainly in Python, Java, JavaScript and
 
 <br>
 
-**My language capabilitys:**
+### Languages
 * **Portuguese** 🇧🇷 (Native)
 * **English** 🇺🇸 (Fluent)
 * **Italian** 🇮🇹 (Beginner)
 
 ---
 
-### 🔨 Current Projects & Focus
+### 🔨Projects
 
-I'm actively developing my skills through hands-on work in key areas:
+#### **FarmaGestor**
+* **Focus:** Full-stack web development.
+* **Description:** Developed a pharmacy management system for the Lagoa do Ouro city hall in the state of Pernambuco. The core objective was to design a system to organize storage, track inventory movements, and check for medication expiration dates. This was my first professional project and is already deployed.
+* **URL:** [https://farmagestor.lagoadoouro.com](https://farmagestor.lagoadoouro.com)
+* **Key Skills:** Django, React and Postgres.
 
-#### **[Project] FarmaGestor**
-* **Focus:** Full stack & Software Architecture
-* **Description:** Developing a comprehensive pharmacy management system tailored for the city hall of Lagoa do Ouro. The core objective is to design a robust and reliable system to organize the storage, track inventory movimentations, and check for medication expiration dates.
-* **Key Skills:** Django, React, Postgres.
+#### **UPE Eventos (University of Pernambuco Events)**
+* **Focus:** Software modeling and web development.
+* **Description:** Modeled and developed an application to manage events across the university where I study. The main goal of this project was purely academic and to help us develop skills in system design. The project was proposed for my databases course at the university and the final result was a well-documented and developed web application.
+* **Project Repo:** [UPE-Eventos-BD](https://github.com/mateusmtorres23/UPE-Eventos-BD)
+* **Key Skills:** SQL, Database modeling, Go, React, Postgres and Docker.
 
-#### **[Project] Webbeat**
-* **Focus:** Web apps Monitoring & Security
-* **Description:** Building a powerful web application monitoring tool from scratch. The primary challenge is implementing secure and authenticated communication for tracking various web services.
-* **Key Skills:** Spring, Thymeleaf, MongoDB, docker.
-
-#### **[Study] AI and Data**
-* **Focus:** AI agents, Data science, Data analysis, Machine learning, MLOps, 
-* **Description:** Dedicated study to master the fundamentals of Data Science and Machine Learning. Currently building **AI agents** using modern **Generative AI** models (LLMs) and exploring the architecture needed to support scalable data pipelines.
-* **Key Skills:** Python, Data Analysis & Visualization, Machine Learning, MLOps Principles, Generative AI (LLMs).
+#### **Time Series Anomaly Detection For Transaction Analysis**
+* **Focus:** Data science and academic research. 
+* **Description:** University research project to develop machine learning solutions to find fraudulent patterns in bank transactions to assist the police in investigations.
+* **Key Skills:** Python, time series analysis, anomaly detection and academic research.
 
 ---
 
 ### 💡 Career Vision
 
-My goal is to cultivate a complete skillset establishing **deep technical mastery** in domains like **Backend develping**, **AI** and, **Data**, while deliberately expanding my **breadth of knowledge** across complementary fields such as **Business Analysis**, **Product Lifecycle**, and overall **System Architecture**.
+My goal is to develop a skillset that covers the fields I am most interested in within computer science, such as: Web development, data science and data engineering.
 
 **Actively Exploring:**
-* 🤖 **Artificial Intelligence** & Machine Learning
-* ⚙️ **Backend Development** & Distributed Systems
-* 🏛️ **Software Architecture** & System Design
-* 📊 **Data Engineering** & Pipeline Optimization
-* 📈 **Business Analysis**
+* 📈 **Data Science**
+* ⚙️ **Backend Development**
+* 🏛️ **System Design**
+* 📊 **Data Engineering**
+* 🤖 **AI engineering**
 
 ---
 
