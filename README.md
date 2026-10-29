@@ -39,7 +39,7 @@ I am primarily interested in backend and data engineering. I code mainly in Pyth
 #### **UPE Eventos (University of Pernambuco Events)**
 * **Focus:** Software modeling and web development.
 * **Description:** Modeled and developed an application to manage events across the university where I study. The main goal of this project was purely academic and to help us develop skills in system design. The project was proposed for my databases course at the university and the final result was a well-documented and developed web application.
-* **Project Repo:** [UPE-Eventos-BD](https://github.com/mateusmtorres23/UPE-Eventos-BD)
+* **Project Repo:** [UPE-Eventos-BD](https://github.com/mateusmtorres23/upe-eventos)
 * **Key Skills:** SQL, Database modeling, Go, React, Postgres and Docker.
 
 #### **Time Series Anomaly Detection For Transaction Analysis**
