@@ -33,7 +33,6 @@ I am primarily interested in backend and data engineering. I code mainly in Pyth
 #### **FarmaGestor**
 * **Focus:** Full-stack web development.
 * **Description:** Developed a pharmacy management system for the Lagoa do Ouro city hall in the state of Pernambuco. The core objective was to design a system to organize storage, track inventory movements, and check for medication expiration dates. This was my first professional project and is already deployed.
-* **URL:** [https://farmagestor.lagoadoouro.com](https://farmagestor.lagoadoouro.com)
 * **Key Skills:** Django, React and Postgres.
 
 #### **UPE Eventos (University of Pernambuco Events)**
